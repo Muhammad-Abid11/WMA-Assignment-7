@@ -1,0 +1,28 @@
+.main-div{
+    border: 2px solid teal;
+    width: 177px;
+    margin: auto auto;
+}
+.heading{
+    text-align: center;
+}
+.display{
+    width: 96%;
+    border-color: teal;
+    background-color: whitesmoke;
+}
+.btnclear{
+    margin-top: 3px;
+    width: 100%;
+    border-color: teal;
+    background-color: whitesmoke;
+}
+.btn{
+    background-color: whitesmoke;
+    margin-top: 3px;
+    width: 23%;
+}
+.halfbtn{
+    width: 48%;
+    margin-top: 3px;
+}
